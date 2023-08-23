@@ -21,3 +21,8 @@ This Project validates an email address entered by the user using a series of ch
 
 <-->  This code aims to provide a basic level of validation for an email address. However, it's important to note that email validation can be much more complex due to the various formatting rules and domain-specific checks involved. Additionally, this code doesn't handle edge cases and internationalized email addresses, which might have special characters or non-ASCII characters.
 
+
+
+-> Tech Stack Used - Python
+
+-> Software Used - Visual Studio Code
